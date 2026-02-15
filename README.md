@@ -1,6 +1,6 @@
-### 🎓 Estudiante de Estadística en la UCV 📊 | Aspirante a Data Scientist
+### 🎓 Estudiante de Estadística en la UCV 📊 | Aspirante a Data Scientist (aprendiz avanzado de inglés)
 
-Me apasiona encontrar el orden en el caos a través de los datos. Actualmente estoy cursando mi 1er semestre en la **Universidad Central de Venezuela**, formando las bases lógicas y matemáticas para transformar números en decisiones inteligentes.
+Me apasiona encontrar el orden en el caos a través de los datos para luego expresarlo y visualizarlo de varias formas claras. Actualmente estoy cursando mi 1er semestre en la **Universidad Central de Venezuela**, formando las bases lógicas y matemáticas para transformar números en decisiones inteligentes.
 
 ---
 
